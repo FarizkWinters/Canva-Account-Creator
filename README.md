@@ -45,5 +45,5 @@ This script automates the process of creating a Canva account, verifying OTP, an
 This project is open-source and free to use. Contributions are welcome!
 
 ---
-👨‍💻 Developed by Your Name
+👨‍💻 Developed by Winters >_<
 
